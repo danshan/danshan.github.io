@@ -4,21 +4,23 @@
   <title><![CDATA[Dan's Workspace]]></title>
   <link href="https://danshan.github.io/atom.xml" rel="self"/>
   <link href="https://danshan.github.io/"/>
-  <updated>2021-02-01T21:59:50+08:00</updated>
+  <updated>2021-02-01T22:17:23+08:00</updated>
   <id>https://danshan.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
-  <generator uri="http://www.mweb.im">MWeb</generator>
+  <generator uri="http://www.coderforart.com/">CoderForArt</generator>
 
   
   <entry>
     <title type="html"><![CDATA[Welcome to MWeb]]></title>
     <link href="https://danshan.github.io/16121867932378.html"/>
+    
     <updated>2021-02-01T21:39:53+08:00</updated>
     <id>https://danshan.github.io/16121867932378.html</id>
     <content type="html"><![CDATA[
+    <img src="" />
 <p>MWeb is a professional Markdown writing, note taking, and static blog generator app for Mac, iPad, and iPhone. Here are some special features of MWeb.</p>
 
 <h2 id="toc_0">The software</h2>
@@ -81,10 +83,10 @@ If you use the Library Mode, please check out this link <a href="https://www.mwe
 <li>Leave a review or at least a rating in the Mac App Store.</li>
 </ol>
 
-<pre><code class="language-java">        Optional&lt;DrawWeightPrizeDTO&gt; optionalPrize = calcPrize();
-        if (!optionalPrize.isPresent() || this.missedKey.equals(optionalPrize.get().getKey())) {
-            return buildMissedResp(resp, luckyDraw);
-        }
+<pre class="line-numbers"><code class="language-java">Optional&lt;DrawWeightPrizeDTO&gt; optionalPrize = calcPrize();
+if (!optionalPrize.isPresent() || this.missedKey.equals(optionalPrize.get().getKey())) {
+    return buildMissedResp(resp, luckyDraw);
+}
 </code></pre>
 
 ]]></content>
