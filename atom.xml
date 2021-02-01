@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dan's Workspace]]></title>
+  <link href="https://shanhh.github.io/atom.xml" rel="self"/>
+  <link href="https://shanhh.github.io/"/>
+  <updated>2021-02-01T21:56:07+08:00</updated>
+  <id>https://shanhh.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im">MWeb</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to MWeb]]></title>
+    <link href="https://shanhh.github.io/16121867932378.html"/>
+    <updated>2021-02-01T21:39:53+08:00</updated>
+    <id>https://shanhh.github.io/16121867932378.html</id>
+    <content type="html"><![CDATA[
+<p>MWeb is a professional Markdown writing, note taking, and static blog generator app for Mac, iPad, and iPhone. Here are some special features of MWeb.</p>
+
+<h2 id="toc_0">The software</h2>
+
+<ul>
+<li>Made with supporting native technologies in mind. It is always a perfect integration with the platform.</li>
+<li>Aiming for modern UI and high performance, also being powerful, easy-to-use, and fully-featured.</li>
+</ul>
+
+<h2 id="toc_1">Markdown</h2>
+
+<h3 id="toc_2">The powerful syntax</h3>
+
+<ul>
+<li>Use the GitHub Flavored Markdown (GFM) by default.</li>
+<li>Included with the support of creating tables, TOCs, LaTeX math, fenced code blocks, task lists, footnotes, and many more.</li>
+<li>Easily generate graphics with any of mermaid, Graphviz, ECharts, PlantUML, js-sequence-diagrams, and flowchart.js.</li>
+</ul>
+
+<h3 id="toc_3">Editing assistant</h3>
+
+<ul>
+<li>Gracefully handle image insertion: direct copy and paste, drag and drop, and full-colored preview in the editor.</li>
+<li>Specify the image size in Markdown-compatible syntax.</li>
+<li>Inserting tables and LaTeX equations with ease.</li>
+</ul>
+
+<h3 id="toc_4">Note taking</h3>
+
+<ul>
+<li>Store and manage all documents in a tree-like categoring library with a tagging system. Categories can be gracefully exported or turned into static websites.</li>
+<li>Put quick notes.</li>
+<li>Instantly search from the entire library.</li>
+</ul>
+
+<h3 id="toc_5">Output</h3>
+
+<ul>
+<li>Exporting contents as various formats, including HTML, EPUB, PDF, RTF, Docx, and even image.</li>
+<li>Publishing the articles to Wordrpess, Metaweblog API, Wordpress.com, Evernote, Blogger, Medium, Ghost, and Tumblr.</li>
+<li>Smooth support for image upload services: using Imgur, SM.MS, Qiniu, Upyun, Tencent Cloud COS, Aliyun OSS or your custom API.</li>
+</ul>
+
+<h3 id="toc_6">External documentation</h3>
+
+<ul>
+<li>There is an external mode in MWeb that enables importing existing markdown files in directories. It also handles contents from Gitbook, JekyII and Hexo.</li>
+</ul>
+
+<h2 id="toc_7">MWeb official help</h2>
+
+<p>Before use MWeb, we suggest that reading the MWeb official help document: <a href="https://www.mweb.im/help.html">https://www.mweb.im/help.html</a> first. <br/>
+If you use the Library Mode, please check out this link <a href="https://www.mweb.im/mweb-library.html">https://www.mweb.im/mweb-library.html</a> first. </p>
+
+<h2 id="toc_8">Help us to make MWeb better!</h2>
+
+<ol>
+<li>Spread the words! Tell your friends about MWeb if you like it.</li>
+<li>Send Feedback: <a href="mailto:coderforart+2333@gmail.com">coderforart+2333@gmail.com</a></li>
+<li>Leave a review or at least a rating in the Mac App Store.</li>
+</ol>
+
+<pre><code class="language-java">        Optional&lt;DrawWeightPrizeDTO&gt; optionalPrize = calcPrize();
+        if (!optionalPrize.isPresent() || this.missedKey.equals(optionalPrize.get().getKey())) {
+            return buildMissedResp(resp, luckyDraw);
+        }
+</code></pre>
+
+]]></content>
+  </entry>
+  
+</feed>
