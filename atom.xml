@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Dan's Workspace]]></title>
-  <link href="https://shanhh.github.io/atom.xml" rel="self"/>
-  <link href="https://shanhh.github.io/"/>
-  <updated>2021-02-01T21:58:43+08:00</updated>
-  <id>https://shanhh.github.io/</id>
+  <link href="https://danshan.github.io/atom.xml" rel="self"/>
+  <link href="https://danshan.github.io/"/>
+  <updated>2021-02-01T21:59:50+08:00</updated>
+  <id>https://danshan.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome to MWeb]]></title>
-    <link href="https://shanhh.github.io/16121867932378.html"/>
+    <link href="https://danshan.github.io/16121867932378.html"/>
     <updated>2021-02-01T21:39:53+08:00</updated>
-    <id>https://shanhh.github.io/16121867932378.html</id>
+    <id>https://danshan.github.io/16121867932378.html</id>
     <content type="html"><![CDATA[
 <p>MWeb is a professional Markdown writing, note taking, and static blog generator app for Mac, iPad, and iPhone. Here are some special features of MWeb.</p>
 
