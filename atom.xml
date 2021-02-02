@@ -4,10 +4,10 @@
   <title><![CDATA[Dan's Workspace]]></title>
   <link href="https://danshan.github.io/atom.xml" rel="self"/>
   <link href="https://danshan.github.io/"/>
-  <updated>2021-02-01T22:17:23+08:00</updated>
+  <updated>2021-02-02T10:18:02+08:00</updated>
   <id>https://danshan.github.io/</id>
   <author>
-    <name><![CDATA[]]></name>
+    <name><![CDATA[Dan]]></name>
     
   </author>
   <generator uri="http://www.coderforart.com/">CoderForArt</generator>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Welcome to MWeb]]></title>
     <link href="https://danshan.github.io/16121867932378.html"/>
-    
+    <meta name="description" content="Dan" /><author><name><![CDATA[Dan]]></name></author>
     <updated>2021-02-01T21:39:53+08:00</updated>
     <id>https://danshan.github.io/16121867932378.html</id>
     <content type="html"><![CDATA[
@@ -67,7 +67,7 @@
 <h3 id="toc_6">External documentation</h3>
 
 <ul>
-<li>There is an external mode in MWeb that enables importing existing markdown files in directories. It also handles contents from Gitbook, JekyII and Hexo.</li>
+<li>There is an external mode in MWeb that enables importing existing markdown files in directories. It also handles contents from Gitbook, JekyII uj Hexo.</li>
 </ul>
 
 <h2 id="toc_7">MWeb official help</h2>
